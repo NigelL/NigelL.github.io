@@ -1,0 +1,19 @@
+#head_initial {
+    background-color: blue;
+    position: relative;
+    text-align: center;
+    margin-left: 500px;
+    left:-250px;
+    font-family: fantasy;
+
+
+}
+div.box_game{
+
+    border-style:dashed;
+
+}
+#List{
+  display: inline-block;
+  list-style-type: none;
+}
